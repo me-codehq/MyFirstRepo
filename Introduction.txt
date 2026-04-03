@@ -1,2 +1,4 @@
 Brief Introduction About Myself
-Hi, I'm Mercy. An ALX student hoping to continue on to tertiary education. This is my first repository created as part of a Github learning task ;)
+Hi, I'm Mercy. An ALX student hoping to continue on to tertiary education ;)
+My favorite hobby is reading horror genre. I recently read The Fisherman by John Lagan or something like that. It was fire.
+I also wanna learn how to code because its something that genuinely interests me. 
