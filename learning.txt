@@ -1,0 +1,4 @@
+In this course, I have learned how to create a GitHub repository, 
+add files, create branches, make pull requests, and clone a 
+repository to my local machine. I now understand the basics of 
+version control and how to collaborate using GitHub.
